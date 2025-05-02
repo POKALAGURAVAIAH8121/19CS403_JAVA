@@ -52,7 +52,7 @@ public class Main {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/de07dd58-9823-4386-a4ee-d8df76ab9b65)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/de07dd58-9823-4386-a4ee-d8df76ab9b65"/>
 ## RESULT:
 Thus the java program that returns the sum of all the values in a 2D array was executed successfully.
 
