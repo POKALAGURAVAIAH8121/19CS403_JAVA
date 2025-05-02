@@ -1,5 +1,4 @@
 # Ex.No:2(D) MULTI-DIMENSIONAL ARRAY
-
 ## AIM:
 To create a java program that returns the sum of all the values in a 2D array.
 ## ALGORITHM :
@@ -22,7 +21,6 @@ Developed by: POKALA GURAVAIAH
 RegisterNumber: 212222040114
 */
 ```
-
 ## Sourcecode.java:
 ```
 import java.util.*;
