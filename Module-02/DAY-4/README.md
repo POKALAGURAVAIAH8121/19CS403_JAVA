@@ -2,7 +2,6 @@
 
 ## AIM:
 To create a java program that returns the sum of all the values in a 2D array.
-
 ## ALGORITHM :
 1.	Start the program.
 2.	Import `Scanner` and define class `sum`
@@ -15,9 +14,6 @@ To create a java program that returns the sum of all the values in a 2D array.
 6.	Calculate the sum of all elements in `arr` using nested loops
 7.	Print "The sum of all values in the 2D array is: " + `sum`
 8.	End
-
-
-
 ## PROGRAM:
  ```
 /*
@@ -58,9 +54,7 @@ public class Main {
 }
 ```
 ## OUTPUT:
-
 ![image](https://github.com/user-attachments/assets/de07dd58-9823-4386-a4ee-d8df76ab9b65)
-
 ## RESULT:
 Thus the java program that returns the sum of all the values in a 2D array was executed successfully.
 
