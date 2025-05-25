@@ -25,14 +25,6 @@ i.	Close the writer.
 j.	End the program.
 
 
-## PROGRAM:
- ```
-/*
-Program to implement a STRING WRITER
-Developed by: 
-RegisterNumber:  
-*/
-```
 
 ## PROGRAM:
  ```
