@@ -5,9 +5,13 @@ To write a java program to calculate the number of tokens present in the tokeniz
 
 ## ALGORITHM :
 Step 1: Start
+
 Step 2: Import the required classes:
+
 import java.util.* for Scanner and StringTokenizer.
+
 Step 3: Create the Main class.
+
 Step 4: Inside the main method:
 
 a. Create a Scanner object to read user input.
